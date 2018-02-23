@@ -1,0 +1,11 @@
+body{
+    background: peru;
+}
+
+#good{
+    border: 5px solid green
+}
+
+.important{
+    text-decoration: line-through
+}
